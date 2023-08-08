@@ -1,4 +1,4 @@
-There are 3 Jupyter Notebooks in this folder for the homework:
+There are 3 Jupyter Notebooks in this repo demonstrating large language models for protein modeling:
 
 1) "protein_regressor_EDA.ipynb": This covers the exploratory data analysis (EDA) including saving a pandas dataframe, stored
 in the sub directory "data" as:
